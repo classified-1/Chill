@@ -4,18 +4,16 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Melee Collider
-  - Fire
-  - DirtRoad
-  - Vehicle
-  - EnterExitPoint
-  - Trailer
-  - Wheel
-  - Road
-  - WayPoint
-  - Cover
-  - Robot
-  - ClingPoint
+  - CinemachineTarget
+  - Item
+  - Demon
+  - Baby
+  - Sunak
+  - Enemy
+  - FlickableObject
+  - UIItem
+  - SunakPoint
+  - HorrorItem
   layers:
   - Default
   - TransparentFX
@@ -26,18 +24,18 @@ TagManager:
   - 
   - 
   - Character
-  - Enemy
-  - Grass
-  - Head
-  - Noise Collider
-  - Smoke
-  - MultiplayerCharacter
-  - DestroyItDebris
-  - RCC
-  - RCC_WheelCollider
-  - RCC_DetachablePart
-  - RCC_Trailer
-  - RCC_Crasher
+  - Ground
+  - Demon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
