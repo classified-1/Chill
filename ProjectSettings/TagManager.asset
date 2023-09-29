@@ -4,16 +4,20 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - CinemachineTarget
-  - Item
-  - Demon
-  - Baby
-  - Sunak
-  - Enemy
-  - FlickableObject
-  - UIItem
-  - SunakPoint
-  - HorrorItem
+  - NoHitMark
+  - Usable
+  - NPC
+  - gun
+  - PhysicsObject
+  - Climbable
+  - Water
+  - Dirt
+  - Metal
+  - Wood
+  - Glass
+  - Flesh
+  - Stone
+  - metal
   layers:
   - Default
   - TransparentFX
@@ -23,20 +27,20 @@ TagManager:
   - UI
   - 
   - 
-  - Character
-  - Ground
-  - Demon
+  - Gun
+  - 
+  - 
+  - Player
+  - Bullet Shells
+  - NPCs
+  - GUICamera
   - 
   - 
   - 
+  - Liquid Collision
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - LeanCollider
+  - Player Clip
   - 
   - 
   - 
@@ -50,4 +54,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Debris
+    uniqueID: 1561855295
+    locked: 0
+  - name: HitSpark
+    uniqueID: 1452714893
     locked: 0
