@@ -5,15 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: Assets/AdvancedMobileHorror/Scenes/Scene_MainMenu.unity
-    guid: 78e0296ba70864ea3a1ff1e54f7a501a
-  - enabled: 0
-    path: Assets/AdvancedMobileHorror/Scenes/Enemy_AI.unity
-    guid: f19a33dd11145475cbde947f46fd8d62
+  - enabled: 1
+    path: Assets/Scenes/AfterHorror.unity
+    guid: 00184495c00c1654abb48383f8fc04b6
   - enabled: 1
     path: Assets/Scenes/BeforeHorror.unity
     guid: 5b29bc7a3195744499577743d6660d08
